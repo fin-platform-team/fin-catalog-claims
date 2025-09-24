@@ -1,0 +1,6 @@
+apiVersion: kro.run/v1alpha1
+kind: FinWebAppStack
+metadata:
+  name: "fin-pfe-hellow-web-stack"
+spec:
+  projectName: "fin-pfe-hellow-web-stack"
