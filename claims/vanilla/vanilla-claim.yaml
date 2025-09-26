@@ -1,7 +1,7 @@
-apiVersion: kro.run/v1alpha1
-kind: FinEKSCluster
-metadata:
-  name: "pfe-eks-vanilla"
-spec:
-  ClusterName: "pfe-eks-vanilla"
-  ClusterVersion: "1.33"
+# apiVersion: kro.run/v1alpha1
+# kind: FinEKSCluster
+# metadata:
+#   name: "pfe-eks-vanilla"
+# spec:
+#   ClusterName: "pfe-eks-vanilla"
+#   ClusterVersion: "1.33"
