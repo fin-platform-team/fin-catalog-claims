@@ -1,0 +1,6 @@
+apiVersion: kro.run/v1alpha1
+kind: FinEKSCluster
+metadata:
+  name: "pfe-eks-restaurant"
+spec:
+  name: "pfe-eks-restaurant"
